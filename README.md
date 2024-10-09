@@ -1,12 +1,13 @@
-#Pratik - While Örnekleri
-Bu pratik uygulama 5 aşamadan oluşuyor. Aşağıdaki alıştırmaları while kullanarak yapınız.
+#Pratik - While Ã–rnekleri
 
-1 -> Konsol ekranına 10 kere "Kendime inanıyorum, ben bu yazılım işini hallederim!" yazdırınız.
+Bu pratik uygulama 5 aÅŸamadan oluÅŸuyor. AÅŸaÄŸÄ±daki alÄ±ÅŸtÄ±rmalarÄ± while kullanarak yapÄ±nÄ±z.
 
-2 -> 1 ile 20 arasındaki sayıları konsol ekranına yazdırınız.
+1 -> Konsol ekranÄ±na 10 kere "Kendime inanÄ±yorum, ben bu yazÄ±lÄ±m iÅŸini hallederim!" yazdÄ±rÄ±nÄ±z.
 
-3 -> 1 ile 20 arasındaki çift sayıları konsol ekranına yazdırınız.
+2 -> 1 ile 20 arasÄ±ndaki sayÄ±larÄ± konsol ekranÄ±na yazdÄ±rÄ±nÄ±z.
 
-4 -> 50 ile 150 arasındaki sayıların toplamını ekrana yazdırınız.
+3 -> 1 ile 20 arasÄ±ndaki Ã§ift sayÄ±larÄ± konsol ekranÄ±na yazdÄ±rÄ±nÄ±z.
 
-5 -> 1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdırınız.
+4 -> 50 ile 150 arasÄ±ndaki sayÄ±larÄ±n toplamÄ±nÄ± ekrana yazdÄ±rÄ±nÄ±z.
+
+5 -> 1 ile 120 arasÄ±ndaki tek ve Ã§ift sayÄ±larÄ±n toplamlarÄ±nÄ± ayrÄ± ayrÄ± ekrana yazdÄ±rÄ±nÄ±z.
